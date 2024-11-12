@@ -1,0 +1,6 @@
+Django==5.1.2
+django-filter==24.3
+djangorestframework==3.15.2
+Markdown==3.7
+decouple==0.0.7
+django-cors-headers==4.4.0

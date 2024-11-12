@@ -1,0 +1,3 @@
+interface TipoBase {
+  id?: number;
+}
